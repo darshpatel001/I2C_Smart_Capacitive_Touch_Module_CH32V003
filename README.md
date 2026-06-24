@@ -291,11 +291,11 @@ Add screenshots of:
 
 If uploaded to repository:
 
-```markdown
+
 ## 🎥 Project Demo
 
-[Watch Demo Video](./touch_module_demo.mp4)
-```
+![Image Description](/Touch_module_bottom.png)
+
 
 If uploaded to YouTube:
 
