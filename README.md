@@ -211,16 +211,7 @@ Touch 3 = Pressed
 ├── User/
 │   ├── main.c
 │   ├── i2c_slave.c
-│   ├── ch32v00x_it.c
-│
-├── Peripheral/
-│
-├── Startup/
-│
-├── Core/
-│
-├── Debug/
-│
+│   ├── ch32v00x_it.c│
 ├── README.md
 └── LICENSE
 ```
