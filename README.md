@@ -292,18 +292,17 @@ Add screenshots of:
 If uploaded to repository:
 
 
-## 🎥 Project Demo
+## PCB Bottom
 
 ![Image Description](/Touch_module_bottom.png)
 
+## PCB Bottom
 
-If uploaded to YouTube:
+![Image Description](/Touch_module_top.png)
 
-```markdown
-## 🎥 Project Demo
 
-[Watch on YouTube](https://youtube.com/your_video_link)
-```
+
+
 
 ---
 
